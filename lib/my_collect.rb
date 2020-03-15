@@ -5,8 +5,8 @@ def my_collect(mel)
     fun << yield(mel[i])
     i += 1
     
-    end
+  end
   return fun
- end
+end
 
 
